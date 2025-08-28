@@ -1,7 +1,7 @@
 ## Mobile Location Checker 🗺️
 A simple and modern web application built with React that simulates checking a mobile phone's location. Enter a 10-digit number to see a mock location pin appear on an interactive map. This project was built to demonstrate front-end development skills, including API integration, component-based architecture, and modern styling.
 
-Live Demo Link 👈 (Replace with your actual Netlify link)
+Live Demo :- https://celadon-lokum-8ec5b3.netlify.app/
 
 ## Features
 Interactive Map: Utilizes Leaflet and OpenStreetMap to display a fully interactive map.
