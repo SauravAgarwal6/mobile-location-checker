@@ -1,12 +1,34 @@
-# React + Vite
+## Mobile Location Checker 🗺️
+A simple and modern web application built with React that simulates checking a mobile phone's location. Enter a 10-digit number to see a mock location pin appear on an interactive map. This project was built to demonstrate front-end development skills, including API integration, component-based architecture, and modern styling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo Link 👈 (Replace with your actual Netlify link)
 
-Currently, two official plugins are available:
+## Features
+Interactive Map: Utilizes Leaflet and OpenStreetMap to display a fully interactive map.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dynamic Mock Location: Generates a slightly different, randomized location for each search to give a more realistic feel.
 
-## Expanding the ESLint configuration
+Input Validation: Ensures that the user enters a number with at least 10 digits before a search can be performed.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Component-Based Architecture: Built with a clean, professional structure using reusable React components.
+
+Modern UI: A clean, responsive, and visually appealing user interface styled with pure CSS.
+
+Professional Icons: Uses Font Awesome for a better user experience.
+
+## Tech Stack
+Frontend: React, Vite
+
+Mapping: React-Leaflet, OpenStreetMap
+
+Icons: Font Awesome
+
+Styling: CSS3
+
+## Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+You need to have Node.js and npm installed on your computer.
+
+Node.js (which includes npm)
